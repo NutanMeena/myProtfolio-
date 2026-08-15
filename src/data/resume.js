@@ -63,7 +63,7 @@ export const projects = [
   {
     name: "ecommerce-store",
     title: "E-Commerce Store — Full-Stack Web Platform",
-    kind: "Intrenship Project",
+    kind: "Internship  Project",
     description:
       "A full-stack e-commerce platform with secure checkout, an auth system, and an admin analytics dashboard.",
     points: [
