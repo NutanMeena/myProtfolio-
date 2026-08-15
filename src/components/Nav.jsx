@@ -19,6 +19,7 @@ export default function Nav() {
               {l.label}
             </a>
           ))}
+          <a href="/resume.pdf" download="Nutan_Meena_Resume.pdf" className="nav-resume-btn">./resume.pdf</a>
         </nav>
       </div>
     </header>
