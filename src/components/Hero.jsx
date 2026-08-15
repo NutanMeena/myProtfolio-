@@ -76,6 +76,7 @@ export default function Hero() {
                   <a className="btn btn-primary" href="#projects">
                     ./view-projects
                   </a>
+                  <a className="btn" href="/resume.pdf" download="Nutan_Meena_Resume.pdf">./download-resume</a>
                   <a className="btn" href="#contact">
                     ./contact --connect
                   </a>
